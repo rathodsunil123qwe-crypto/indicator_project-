@@ -1,0 +1,11 @@
+SCENE
+ID=NO_PLATE_TEST_001
+NAME=Number Plate Runtime Test
+DESC=Independent number plate LED runtime test
+CATEGORY=NO_PLATE
+COLORS
+white=255,255,255
+SCRIPT
+SET BOTH NO_PLATELEDS COLOR white
+SHOW
+END
